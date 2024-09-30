@@ -1,0 +1,2 @@
+# Analysis-of-Efficacy-of-Drug-Regimens-in-Treating-SCC-in-Mice-A-45-Day-Comparative-Study-CH5
+Data analysis for Pymaceuticals, specializing in anti-cancer meds and SCC treatment. I analyzed data from a study of 249 mice with SCC tumors treated with various drug regimens over 45 days. The goal was to compare Capomulin’s efficacy against other treatments. I generated tables, figures, and a summary for the technical report.
